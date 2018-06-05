@@ -1,0 +1,11 @@
+Package: ook
+Version: 0.0.0.9000
+Title: Install commonly used packages for a new R user. Ook! 
+Description: ook? installs commonly used packages via its list of imported
+  packages. Primarily aimed at a user new to R. Installing ook will install
+  a bunch of R packages that will help a new R user get up and running. Ook...
+Authors@R: person("Adam", "Gruer", , "adamgruer@icloud.com", c("aut", "cre"))
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
