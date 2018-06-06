@@ -12,7 +12,9 @@ The goal of ook is to be useful to somone new to R who has just installed R and 
 Installation
 ------------
 
-You can install the development version of ook? from [github](https://github.com/adam-gruer/ook) with:
+You can install the development version of ook? from [github](https://github.com/adam-gruer/ook) with, the primary purpose of hthis is to install the following list of packages on your machine.
+
+    #> [1] "tidyverse" "DBI"
 
 ``` r
 devtools::install_github("adam-gruer/ook") 
