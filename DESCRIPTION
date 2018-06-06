@@ -4,10 +4,11 @@ Title: Install commonly used packages for a new R user. Ook!
 Description: ook? installs commonly used packages via the packages it Imports.
   Primarily aimed at a user new to R. Installing ook will install
   a bunch of R packages that will help a new R user get up and running. Ook...
-Authors@R: Adam Gruer <adamgruer@icloud.com> [aut, cre]
+Authors@R: person("Adam", "Gruer", email = "adamgruer@icloud.com", role = c("aut", "cre"))
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
 URL: https://github.com/adam-gruer/ook
 BugReports: https://github.com/adam-gruer/ook/issues
+RoxygenNote: 6.0.1
